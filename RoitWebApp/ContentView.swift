@@ -13,13 +13,11 @@ struct ContentView: View {
 #if DEBUG
 //    @State var url : String = "http://koupdev.kccworld.net"
 //        @State var url : String = "https://vm11work.github.io/cache-test/microphone-test"
-    @State var url : String = "http://roit.smartpmis.net/"
+    @State var url : String = "https://vm11study.github.io/"
     @State var welcometitle : String = "로이 - s    martpmis"
 #else
     //@State var url : String = "https://vm11work.github.io/cache-test"
-//    @State var url : String = "https://gymcoding.github.io/vuetify-admin-template/#"
-//    @State var url : String = "https://www.naver.com"
-        @State var url : String = "http://roit.smartpmis.net"
+   @State var url : String = "https://gymcoding.github.io/vuetify-admin-template/#"
 //    @State var url : String = "https://vm11work.github.io/webtest/cookiemaker.html"
 //            @State var url : String = "https://tuentuenna.github.io/simple_js_alert/"
 //    @State var url : String = "https://vm11work.github.io/cache-test/download.html"
