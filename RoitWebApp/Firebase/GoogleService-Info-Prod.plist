@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>350035154453-9rombjr64a4gev3br6c8lkb7aqr77c3a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.350035154453-9rombjr64a4gev3br6c8lkb7aqr77c3a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCCIpPxGQLnpo4Ku6MrwpYeuVdZLGH8WII</string>
+	<key>GCM_SENDER_ID</key>
+	<string>350035154453</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>net.smartpmis.roit</string>
+	<key>PROJECT_ID</key>
+	<string>roit-smartpmis</string>
+	<key>STORAGE_BUCKET</key>
+	<string>roit-smartpmis.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:350035154453:ios:3eecce6d0564f52a0ee01c</string>
+</dict>
+</plist>
